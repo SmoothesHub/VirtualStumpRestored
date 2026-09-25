@@ -12,8 +12,24 @@
   </a>
 </p>
 
-VirtualStumpRestored brings back the old Virtual Stump VR headset in Stump, letting you interact with it and enter Virtual Stump faster.
+# VirtualStumpRestored
 
+**VirtualStumpRestored** brings back the old Virtual Stump VR headset that used to be found inside Stump.
+
+The mod restores the classic headset and its original purpose, letting you interact with it and enter Virtual Stump again just like before it was removed.
+
+Built to feel like it belongs naturally in Gorilla Tag, with the headset placed back in Stump and recreated to closely match the original experience.
+
+### Features
+
+- Restores the old Virtual Stump VR headset
+- Places it back inside Stump
+- Interactive headset and handles
+- Enter Virtual Stump by putting your head inside the headset
+- 3-second countdown before teleporting
+- Designed to closely recreate the original Virtual Stump experience
+
+If you miss the old Virtual Stump headset, **VirtualStumpRestored** brings it back.
 <p align="center">
   <img src="https://github.com/SmoothesHub/VirtualStumpRestored/blob/main/VS Showcase.png" width="500">
 </p>
